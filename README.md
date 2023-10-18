@@ -4,12 +4,11 @@
     <img src="https://mdhasanmahmud.000webhostapp.com/inappupdate/appbondtech.jpg" alt="Logo" width="150" height="150">
   </a>
 
-
   <p align="center">
     Best Easy Way for In-App Update Implementation
     <br/>
     <br/>
-    <a href=""><strong> For Details Video Tutorial »</strong></a>
+    <a href=""><strong> For Details Video Tutorial » https://youtu.be/pzFsuzdIUog?si=11HHsECNZsHwcjLu </strong></a>
     <br/>
     <br/>
 	  
