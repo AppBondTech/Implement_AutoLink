@@ -4,7 +4,7 @@
     <img src="https://mdhasanmahmud.000webhostapp.com/inappupdate/youtubelogo.png" alt="Logo" width="150" height="150">
   </a>
 
-  <h5 align="center">Implement Auto Link</h5>
+  <h1 align="center">Implement Auto Link</h1>
 
   <p align="center">
     Best Easy Way for In-App Update Implementation
