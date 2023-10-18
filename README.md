@@ -1,25 +1,18 @@
 <br/>
 <p align="center">
-  <a href="https://https://github.com/AppBondTech/Implement_AutoLink">
-    <img src="https://avatars.githubusercontent.com/u/111883800?v=4" alt="Logo" width="80" height="80">
+  <a href="https://github.com/AppBondTech/Easy_InAppUpdate">
+    <img src="https://mdhasanmahmud.000webhostapp.com/inappupdate/appbondtech.jpg" alt="Logo" width="150" height="150">
   </a>
 
-  <h3 align="center">Quick Admob</h3>
+  <h3 align="center">In-App Update(java)</h3>
 
   <p align="center">
-    Easy And Best Practice with Admob Ad Implementation
+    Best Easy Way for In-App Update Implementation
     <br/>
     <br/>
-    <a href="https://youtu.be/pzFsuzdIUog?si=11HHsECNZsHwcjLu"><strong>Explore the video docs »</strong></a>
+    <a href="https://youtu.be/pzFsuzdIUog?si=11HHsECNZsHwcjLu"><strong> For Details Video Tutorial »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/AtikulSoftware/quickadmob">View Demo</a>
-    .
-    <a href="https://github.com/AtikulSoftware/quickadmob/issues">Report Bug</a>
-    .
-    <a href="https://github.com/AtikulSoftware/quickadmob/issues">Request Feature</a>
-  </p>
-</p>
 	  
 ## About The Project
 
@@ -28,4 +21,3 @@
 ## In Cooperation
 
 * **Md. Hasan Mahmud** - *Mobile Application Developer* - *Free Library*
-
