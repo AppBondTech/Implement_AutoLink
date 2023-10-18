@@ -4,7 +4,7 @@
     <img src="https://mdhasanmahmud.000webhostapp.com/inappupdate/youtubelogo.png" alt="Logo" width="150" height="150">
   </a>
 
-  <h1 align="center">Implement Auto Link</h1>
+  <h2 align="center">Implement Auto Link</h2>
 
   <p align="center">
     ভিডিও দেখার জন্য, নিচের ভিডিও টিউটোরিয়াল (Video Tutorial) বাটনে ক্লিক করুন
@@ -18,6 +18,6 @@
 
 ![Screen Shot](https://mdhasanmahmud.000webhostapp.com/inappupdate/autolinkthum.png)
 
-## In Cooperation
+## In Co-operation
 
 * **Md. Hasan Mahmud** - *Mobile Application Developer*
