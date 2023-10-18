@@ -20,5 +20,5 @@
 
 ## In Cooperation
 
-* **Md. Hasan Mahmud** - *Mobile Application Developer* - *Free Library*
+* **Md. Hasan Mahmud** - *Mobile Application Developer*
 
