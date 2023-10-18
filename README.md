@@ -10,7 +10,7 @@
     Easy And Best Practice with Admob Ad Implementation
     <br/>
     <br/>
-    <a href="https://youtu.be/i9f_-exXbpw"><strong>Explore the video docs »</strong></a>
+    <a href="https://youtu.be/pzFsuzdIUog?si=11HHsECNZsHwcjLu"><strong>Explore the video docs »</strong></a>
     <br/>
     <br/>
     <a href="https://github.com/AtikulSoftware/quickadmob">View Demo</a>
