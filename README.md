@@ -7,7 +7,7 @@
   <h1 align="center">Implement Auto Link</h1>
 
   <p align="center">
-    ভিডিও দেখার জন্য নিচের ভিডিও টিউটোরিয়াল(Video Tutorial)বাটনে ক্লিক করুন
+    ভিডিও দেখার জন্য নিচের ভিডিও টিউটোরিয়াল (Video Tutorial) বাটনে ক্লিক করুন
     <br/>
     <br/>
     <a href="https://youtu.be/pzFsuzdIUog?si=11HHsECNZsHwcjLu"><strong> Video Tutorial »</strong></a>
