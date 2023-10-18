@@ -16,7 +16,7 @@
 	  
 ## About The Project
 
-![Screen Shot](https://mdhasanmahmud.000webhostapp.com/inappupdate/eF05z.png)
+![Screen Shot](https://mdhasanmahmud.000webhostapp.com/inappupdate/autolinkthum.png)
 
 ## In Cooperation
 
