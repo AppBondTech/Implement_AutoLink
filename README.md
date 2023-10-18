@@ -13,8 +13,8 @@
     <a href="https://youtu.be/pzFsuzdIUog?si=11HHsECNZsHwcjLu"><strong> Video Tutorial »</strong></a>
     <br/>
     <br/>
-
-    ## About The Project
+    
+## About The Project
 
 ![Screen Shot](https://mdhasanmahmud.000webhostapp.com/inappupdate/autolinkthum.png)
 
