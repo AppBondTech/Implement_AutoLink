@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/AppBondTech/Easy_InAppUpdate">
+  <a href="https://github.com/AppBondTech/Implement_AutoLink">
     <img src="https://mdhasanmahmud.000webhostapp.com/inappupdate/youtubelogo.png" alt="Logo" width="150" height="150">
   </a>
 
