@@ -1,3 +1,7 @@
+## About The Project
+
+![Screen Shot](https://mdhasanmahmud.000webhostapp.com/inappupdate/autolinkthum.png)
+
 <br/>
 <p align="center">
   <a href="https://github.com/AppBondTech/Easy_InAppUpdate">
@@ -13,10 +17,6 @@
     <a href="https://youtu.be/pzFsuzdIUog?si=11HHsECNZsHwcjLu"><strong> For Details Video Tutorial »</strong></a>
     <br/>
     <br/>
-	  
-## About The Project
-
-![Screen Shot](https://mdhasanmahmud.000webhostapp.com/inappupdate/autolinkthum.png)
 
 ## In Cooperation
 
