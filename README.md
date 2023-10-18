@@ -8,7 +8,7 @@
     Best Easy Way for In-App Update Implementation
     <br/>
     <br/>
-    <a href=""><strong> For Details Video Tutorial » https://youtu.be/pzFsuzdIUog?si=11HHsECNZsHwcjLu </strong></a>
+    <a href=""><strong> For Details Video Tutorial »</strong>https://youtu.be/pzFsuzdIUog?si=11HHsECNZsHwcjLu </a>
     <br/>
     <br/>
 	  
